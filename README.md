@@ -1,6 +1,7 @@
 # Data-Structure-and-Algorithm
 A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 For example, we can store a list of items having the same data-type using the array data structure.
+!(Data structure)[https://upload.wikimedia.org/wikipedia/commons/0/03/Untitled-Diagram-183.png]
 
 This page contains detailed explanation on different data structures (DS) with topic-wise problems.
 
@@ -27,4 +28,7 @@ This page contains detailed explanation on different data structures (DS) with t
 ## Array:
 
 An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).
-Each element can be uniquely identified by their index in the array.
+
+!(Array)[https://media.geeksforgeeks.org/wp-content/uploads/array-2.png]
+
+The above image can be looked as a top-level view of a staircase where you are at the base of the staircase. Each element can be uniquely identified by their index in the array (in a similar way as you could identify your friends by the step on which they were on in the above example).
