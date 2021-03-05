@@ -1,4 +1,7 @@
 # Data-Structure-and-Algorithm
+
+## Data Structure:
+
 A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 For example, we can store a list of items having the same data-type using the array data structure.
 ![Data structure](https://upload.wikimedia.org/wikipedia/commons/0/03/Untitled-Diagram-183.png)
