@@ -35,3 +35,11 @@ An array is a collection of items stored at contiguous memory locations. The ide
 ![Array](https://media.geeksforgeeks.org/wp-content/uploads/array-2.png)
 
 The above image can be looked as a top-level view of a staircase where you are at the base of the staircase. Each element can be uniquely identified by their index in the array (in a similar way as you could identify your friends by the step on which they were on in the above example).
+
+## Linked List:
+
+A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:
+
+![Linked List](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png)
+
+In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
