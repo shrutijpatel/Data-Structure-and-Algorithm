@@ -52,7 +52,7 @@ Stack is a linear data structure which follows a particular order in which the  
 
 Consider a real life example of stack, an example of plates stacked over one another in the canteen. The pkate ehich is at the top is  the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for longest period of time. So, it can is simply LIFO/FIFO order.
 
-## Queue
+## Queue:-
 
 A Queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out(FIFO). A good example of  a queue is any queue of consumers for a resourse where the consumer that came first is served first. 
 
@@ -60,7 +60,7 @@ A Queue is a linear structure which follows a particular order in which the oper
 
 The difference between stacks and queue is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.
 
-## Binary Tree
+## Binary Tree:-
 
 A tree whose elements have at most 2 children is called a binary tree. Since each element in a binary tree can have 2 children, we typically name them the left and right child.
 
@@ -71,7 +71,7 @@ A Binary Tree node contains following parts.
 -2.Pointer to left child
 -3.Pointer to right child
 
-## Binary Search Tree
+## Binary Search Tree:-
 
 Binary Search Tree is a node-based binary tree data structure which has the following properties:
 
@@ -81,7 +81,7 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 
 ![Binary Search Tree](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
 
-## Heap
+## Heap:-
 
 A Heap is a special Tree-based data structure in which the tree is a complete binary tree. Generally, Heaps can be of two types:
 
@@ -90,7 +90,7 @@ A Heap is a special Tree-based data structure in which the tree is a complete bi
 
 ![Heap](https://www.geeksforgeeks.org/wp-content/uploads/MinHeapAndMaxHeap-768x460.png)
 
-## Hashing
+## Hashing:-
 
 Hashing is a technique or process of mapping keys, values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.
 
@@ -98,7 +98,7 @@ Let a hash function H(x) maps the value x at the index x%10 in an Array. For exa
 
 ![Hashing](https://www.geeksforgeeks.org/wp-content/uploads/HashingDataStructure-min-768x384.png)
 
-## Graph
+## Graph:-
 
 A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
 
